@@ -77,7 +77,7 @@ function preload() {
   monLeftDoorImg = loadImage('assets/GSOL.png');
   monLeftDoorAImg = loadImage('assets/GSAngryLeftDoor.png');
   monRightDoorImg = loadImage('assets/GSOR.png');
-  monRightDoorAImg = loadImage('assets/GSAngryRIghtDoor.png');
+  monRightDoorAImg = loadImage('assets/GSAngryRightDoor.png');
   monCam7Img = loadImage('assets/GSC6V.png');
   monCam7AImg = loadImage('assets/GSAngryC6.png');
   monELeftAImg = loadImage('assets/GSAngryMR.png');
